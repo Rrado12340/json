@@ -1,0 +1,93 @@
+    [
+        {
+            "name": "Opel Astra G",
+            "description": "Sprzedaż drugiej generacji Opla Astry (zwanej Astrą G – zgodnie z porządkiem alfabetu) ruszyła w 1998 r. Model ten względem poprzednika charakteryzował się masywniejszą i nowocześniejszą sylwetką, a także większymi wymiarami, co przełożyło się na sporą ilość miejsca wewnątrz pojazdu. Opel Astra G była także dostępny w wariancie coupe, który tak jak kabriolet zaprojektowali styliści z Bertone. Wraz z pojawieniem się na rynku trzeciej generacji Astry w 2004 roku, produkcja Astry II została przeniesiona do Gliwic.",
+            "Rating": "8.16",
+            "episode": 1998,
+            "categorie":"sedan | kombi | coupe",
+            "studio":"Opel",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/57624534582c7ddf278b4b37/opel-astra-g-05.jpg"
+        },
+        {
+            "name": "Volkswagen Golf V",
+            "description": "W roku 2003 wprowadzono na rynek piątą generację Golfa. Samochód, poza tym że został stylistycznie odświeżony, to w rodzinie Golfów charakteryzował się także największymi wymiarami. Od roku 2005 wprowadzono na rynki europejski i amerykański odmianę sedan auta, pod wspólną nazwą Jetta (w Stanach Zjednoczonych Volkswagen Golf V oferowany był pod nazwą Rabbit). W roku 2006 natomiast Volkswagen przedstawił odmianę rekreacyjną Golf Plus nazwaną CrossGolf. W oparciu o Golfa piątej generacji stworzono także kabriolet-coupe Eos. Volkswagen Golf V nie do końca sprostał oczekiwaniom rynkowym niemieckiego producenta, toteż już w roku 2008, dwa lata wcześniej niż planowano zastąpił go model następnej generacji.",
+            "Rating": "8.54",
+            "episode": 2003,
+             "categorie":"hatchback | kombi",
+            "studio":"Volkswagen",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/57624961582c7ddf278b8914/volkswagen-golf-v-hatchback.jpg"
+        },
+        {
+            "name": "BMW E46",
+            "description": "Czwarty model należący do Serii 3 był oznaczony symbolem E46. Jego debiut rynkowy przypadł na rok 1998 roku. Pod względem stylistycznym samochód znów przeszedł spore zmiany - sylwetka zyskała znacznie bardziej opływowe kształty. W 2001 roku E46 został poddany face-liftingowi. E46 Coupe i Cabrio zostały poddane face-liftingowi w 2002 roku. Przez wszystkie lata produkcji model był wybierany do pierwszej dziesiątki najlepszych samochodów wg magazynu „Car and Driver”. W 2007 roku auto zostało wycofane z produkcji.",
+            "Rating": "8.50",
+            "episode": 1998,
+            "categorie":"sedan | kombi | hatchback | cabrio | coupe",
+            "studio":"BMW",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/576275ce582c7ddf278c2064/bmw-seria-3-e46-m3-coupe.jpg"
+        },
+        {
+            "name": "Mercedes klasa E W213",
+            "description": "Piąta generacja Mercedesa Klasy S pojawiła się na rynku w roku 2015. Stylistycznie model ten, jak nigdy wcześniej, jest spokrewniony zarówno z flagową, większą Klasą S (model W222), jak również z mniejszą Klasą C (W205), co jest rezultatem unifikacji designu, który niemiecka marka zdecydowała się przeprowadzić. Mercedes Klasa E W213 został zaprojektowany przez Roberta Lesnika. Tak jak poprzednik, W213 zbudowany został na tej samej platformie podłogowej co mniejsza Klasa C – jest to modularna platforma MRA (stosowana w skróconym wariancie w Klasie C W205). Model reklamowany jest przez producenta jako najbardziej technologicznie zaawansowany samochód w historii marki – jest owocem ponad 4 lat pracy.",
+            "Rating": "8.16",
+            "episode": 2016,
+            "categorie":"sedan | kombi | cabrio | coupe",
+            "studio":"Mercedes",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/57629c22582c7d19a98b895c/mercedes-klasa-e-w213-limuzyna.jpg"
+        },
+        {
+            "name": "Volvo s80",
+            "description": "Druga, najnowsza i obecnie produkowana generacja S80 debiutowała na rynku w 2006 roku. Samochód został zbudowany na platformie podłogowej Ford EUCD. Nadwozie modelu zostało solidnie odświeżone w stosunku do jego poprzednika. S80 II jest też większy i bardziej luksusowy od auta poprzedniej generacji. W 2009 model został poddany delikatnej modernizacji, która objęła między innymi wygląd atrapy chłodnicy, wykończenia zewnętrzne, a także stylistykę wnętrza.",
+            "Rating": "8.16",
+            "episode": 2006,
+            "categorie":"sedan",
+            "studio":"Volvo",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/5762455d582c7ddf278b4fb4/volvo-s80-ii-sedan.jpg"
+        },
+        {
+            "name": "Fiat 124 Spider",
+            "description": "Fiat 124 Spider to produkowany od 2016 r. dwumiejscowy, mały samochód sportowy o nadwoziu typu roadster (segment H). W tym segmencie jest to pierwsze auto Fiata od czasu wycofania z rynku modelu Barchetta, co miało miejsce w 2005 roku. Nawiązuje do legendarnego roadstera Fiata: 124 Sport Spider, produkowanego w latach 1966-1985, nie tylko nazwą, ale również kształtami i designem. Jego bliźniaczym modelem jest Mazda MX-5, gdyż nowy Fiat 124 Spider jest owocem współpracy Fiata i Mazdy. Zarówno 124 Spider, jak i MX-5 zbudowano na płycie podłogowej Mazda ND Platform. Pod szyldem Abarth tradycyjnie oferowana jest mocniejsza wersja modelu.",
+            "Rating": "8.39",
+            "episode": 2016,
+            "categorie":"Cabrio",
+            "studio":"Fiat/Mazda",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/57625e59582c7ddf278beaaf/fiat-124-spider-05.jpg"
+        },
+        {
+            "name": "Mazda 6",
+            "description": "Trzecia generacja Mazdy 6 zadebiutowała w roku 2012 na wystawie samochodowej w Moskwie, a jesienią na targach w Paryżu zaprezentowana została odmiana kombi. Pierwowzorem koncepcyjnym tego modelu z klasy średniej był prototyp z roku 2011 o nazwie Takeri Concept. Trzecia generacja „Szóstki” czerpie także po części ze stylistyki wcześniejszego prototypu – Shinari Concept. Wprowadzając nowy model na rynek, Mazda zaniechała koncepcji stylistycznej „Stylish, Insightful and Spirited” na rzecz filozofii „Kodo Soul of Motion” (z której skorzystano wcześniej tylko w modelu CX-5). Auto zostało zbudowane na nowej platformie podłogowej CD3 2 platform, stworzonej we współpracy z Fordem.",
+            "Rating": "8.01",
+            "episode": 2012,
+            "categorie":"sedan | kombi",
+            "studio":"Mazda",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/587c8c93582c7de3f98b4576/mazda-6-iii-kombi-facelifting-2016.jpg"
+        },
+        {
+            "name": "Porsche 991",
+            "description": "Porsche 911 to produkowany od roku 1963 samochód sportowy (segment G). Jest jednym z najbardziej znanych w historii motoryzacji oraz jednym z trzech najstarszych nadal produkowanych samochodów sportowych. Model 911 zastąpił w ofercie marki model 356. Z początku Porsche 911 miał być oznaczone liczbą 901, ale wobec sprzeciwu Peugeota, który zastrzegł sobie numery trzycyfrowe z zerem pośrodku, zmieniono nazwę na 911. Pomimo upływu czasu, kolejne generacje Porsche 911 stylistycznie nie zmieniły się znacząco, co sprawia, że 911 jest jednym z najbardziej wyróżniających się i pożądanych samochodów w swojej klasie. Nowa generacja modelu (oznaczona symbolem 991) została wprowadzona na rynek w roku 2011.",
+            "Rating": "6.55",
+            "episode": 2011,
+            "categorie":"coupe | cabrio",
+            "studio":"Porsche",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/5b62b1ca57502aeaa730996c/porsche-911-991-gt3-rs-facelifting.jpg"
+        },
+        {
+            "name": "Nissan Qashqai II",
+            "description": "Debiutująca na rynku w roku 2013, najnowsza i obecnie produkowana, druga generacja Nissana Qashqai pod względem stylistycznym nawiązuje do prototypu o nazwie Hi Cross Concept. Qashqai II jest pierwszym modelem japońskiego producenta, który powstał na nowej płycie podłogowej Nissan CMF, stworzonej w kooperacji Nissana i Renault. Druga generacja Qashqaia jest od poprzednika większa, ale także trochę niższa i lżejsza (ok. 40 kilogramów). Na rynku japońskim i australijskim Nissan Qashqai drugiej generacji funkcjonuje jako Nissan Dualis. Tak jak model pierwszej generacji, samochód jest niedostępny na rynku amerykańskim, gdzie zamiast niego sprzedawany jest model Rogue.",
+            "Rating": "7.66",
+            "episode": 2013,
+            "categorie":"Crossover",
+            "studio":"Nissan",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/5a4e5a4ec74b356cf42cc16f/nissan-qashqai-ii-crossover-facelifting.jpg"
+        },
+        {
+            "name": "Subaru BRZ",
+            "description": "Subaru BRZ to produkowane od roku 2012 sportowe coupe (segment G). BRZ to pierwszy w tej klasie samochód japońskiej marki od lat 80. i 90. minionego stulecia, kiedy to produkowane były modele XT i SVX. Subaru BRZ od samego początku tworzony było we współpracy z Toyotą. Pierwowzorami studyjnymi były prototypy Toyoty o nazwach FT-86 Concept oraz FT-86 II, a także projekt własny Subaru – Boxer Sports Car. Nazwa samochodu jest skrótem od wyrażeń „Boxer engine”, „Rear wheel drive” oraz „Zenith”, co ma ukazywać pasję Subaru w kreowaniu aut sportowych. Modelami bliźniaczymi auta są Toyota GT 86 oraz Scion FR-S. Na rynkach australijskim oraz japońskim samochód oferowany jest jako Toyota 86.",
+            "Rating": "8.30",
+            "episode": 2012,
+            "categorie":"coupe",
+            "studio":"Subaru/Toyota",
+            "img": "https://www.autocentrum.pl/ac-file/car-version/59995a0e592c7d8b358b4570/subaru-brz-coupe-coupe.jpg"
+        }
+
+    ]
